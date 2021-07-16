@@ -1,0 +1,27 @@
+h1{
+    color: rgb(105, 172, 108);
+}
+h2{
+    color: rgb(88, 123, 175);
+}
+LI{
+    color:rgb(175, 110, 236);
+    font-weight:900;
+}
+*{
+    font-family: 'Courier New';
+}
+body{
+    background-color: rgb(221, 219, 253);
+}
+.header{
+    text-align:center;
+}
+.photos{
+    display :flex;
+    justify-content: space-around;
+}
+img{
+    border-color:black;
+    border: solid;
+}
